@@ -1,9 +1,9 @@
 {
   "author": "Reg Braithwaite <raganwald@gmail.com> (http://braythwayt.com)",
-  "name": "Oscines",
+  "name": "oscin.es",
   "description": "Combinators and Function Decorators",
   "version": "0.1.0",
-  "homepage": "https://oscin.es",
+  "homepage": "http://oscin.es",
   "repository": {
     "type": "git",
     "url": "git://github.com/oscin-es/oscin-es.github.com.git"
