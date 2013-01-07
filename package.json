@@ -2,7 +2,7 @@
   "author": "Reg Braithwaite <raganwald@gmail.com> (http://braythwayt.com)",
   "name": "oscin.es",
   "description": "Combinators and Function Decorators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "http://oscin.es",
   "repository": {
     "type": "git",
