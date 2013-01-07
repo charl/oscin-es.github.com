@@ -1,0 +1,21 @@
+{
+  "author": "Reg Braithwaite <raganwald@gmail.com> (http://braythwayt.com)",
+  "name": "Oscines",
+  "description": "Combinators and Function Decorators",
+  "version": "0.1.0",
+  "homepage": "https://oscin.es",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oscin-es/oscin-es.github.com.git"
+  },
+  "main": "lib/oscines.js",
+  "scripts": {
+    "test": "jasmine-node --coffee --verbose spec"
+  },
+  "engines": {
+    "node": ""
+  },
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
